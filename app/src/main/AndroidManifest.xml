@@ -24,7 +24,7 @@
         <activity android:name=".ControlActivity"
             android:launchMode="singleInstance"/>
 
-        <service android:name=".BltService"/>
+        <service android:name=".BltService"/> 
 
     </application>
 
